@@ -1,0 +1,5 @@
+'
+*.log
+*.cashe
+__pycashe__/
+''
